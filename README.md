@@ -10,17 +10,14 @@ This repository contains simple pytorch implementation of our paper [CLMGC](http
   <img src="assest/CLMGC.png"/> <br/>
 </p>
 
-### 2. Datasets
-DHA, ESP-Game, Flickr, NUS-Wide, COIL20, and MSRCv1 datasets can be downloaded from [Baidu Clouds](https://pan.baidu.com/).
-
-### 3. Usage
+### 2. Usage
 
 Train a new model:
 
 ````python
 python run.py
 ````
-### 4. Citation
+### 3. Citation
 
 Please cite our paper if you find the work useful:
 ```
