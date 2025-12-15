@@ -2,6 +2,8 @@
 
 >**Authors:**
 Shanghui Deng, Chang Tang, Xiao Zheng, Yuanyuan Liu, Kun Sun, Xinwang Liu
+>**Published:**
+SCIENCE CHINA Information Sciences
 
 This repository contains simple pytorch implementation of our paper [CLMGC](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4667-2).
 
