@@ -2,6 +2,7 @@
 
 >**Authors:**
 Shanghui Deng, Chang Tang, Xiao Zheng, Yuanyuan Liu, Kun Sun, Xinwang Liu
+
 >**Published:**
 SCIENCE CHINA Information Sciences
 
