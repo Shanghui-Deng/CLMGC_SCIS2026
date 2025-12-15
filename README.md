@@ -18,7 +18,7 @@ DHA, ESP-Game, Flickr, NUS-Wide, COIL20, and MSRCv1 datasets can be downloaded f
 Train a new model:
 
 ````python
-python train.py
+python run.py
 ````
 ### 4. Citation
 
