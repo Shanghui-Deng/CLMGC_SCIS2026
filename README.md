@@ -29,9 +29,9 @@ Please cite our paper if you find the work useful:
   journal={SCIENCE CHINA Information Sciences}, 
   title={Cross-level Interaction and Multi-granularity Contrastive Learning for Multi-view Clustering}, 
   year={2025},
-  volume={},
-  number={},
-  pages={},
+  volume={69},
+  number={7},
+  pages={172104},
   doi={https://doi.org/10.1007/s11432-025-4667-2},
  }
 ```
